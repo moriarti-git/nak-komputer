@@ -20,12 +20,12 @@
 1. Clone the repository
 
    ```
-   git clone https://github.com/wonderfullandingpage/Technology-LandingPage
+   git clone https://github.com/moriarti-git/nak-komputer.git
    ```
 2. Install dependencies, this can take a minute
 
    ```
-   cd Technology-LandingPage
+   cd nak-komputer
 
    npm install
    ```
